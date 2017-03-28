@@ -245,7 +245,7 @@ Here's an example:
 
 `omniture.sync` can queue up (and synchronize) both a list of reports, or a dictionary.
 
-### Running Report Asynchrnously
+### Running Report Asynchronously
 If you want to run reports in a way that doesn't block. You can use something like the following to do so. 
 
 ```python-omniture
